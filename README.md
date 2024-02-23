@@ -12,7 +12,7 @@ The initial step involved data collection, which included copying the dataset.
 
 **Feature Selection :**
 
-To focus on the analysis objective, we selected the columns relevant to the price prediction: "Price," "Age_08_04," "KM," "HP," "cc," "Doors," "Gears," "Quarterly Tax," and "Weight."
+To focus on the analysis objective, we selected the columns relevant to the price prediction: "Price," "Age_08_04," "Km," "Hp," "cc," "Doors," "Gears," "Quarterly Tax," and "Weight."
 
 **Data Quality Check :**
 
