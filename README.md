@@ -35,6 +35,7 @@ The analysis identified a significant number of outliers in the "Age", "Km", "Hp
 **Model Planning and Execution**
 
 **Independent and Dependent Variables :**
+
 For the predictive modeling, "Age_08_04," "Km," "Hp," and "Weight" were selected as independent variables, and "Price" was chosen as the dependent variable.
 
 **Data Splitting :**
@@ -50,6 +51,7 @@ The training dataset putting 30% data to cross validation is making accurate pre
 A prediction model was built to estimate car prices. The model achieved an R-squared (R2) score of 87.15 indicating the proportion of variance in the dependent variable explained by the independent variables. The Adjusted R2 score of 86.78 The Root Mean Squared Error (RMSE) value was calculated to be 1073.72. The mean squared error(MSE) value was calculated to be 1152890. The mean absolute error(MAE) value was calculated to be 824.68.
 
 **Conclusion**
+
 This project successfully achieved the objective of predicting car prices. Key steps included data preprocessing, exploratory data analysis, and predictive modeling. The chosen independent variables ("Age_08_04," "Km," "Hp,", "cc", "Gears", "Quarterly_Tax" and "Weight") were found to have a significant impact on car prices. Furthermore, the analysis addressed the presence of outliers, ensuring a more accurate predictive model.
 
 The results indicate that the model can predict car prices with an R2 score of 87.15. The findings from this analysis can be utilized to make informed decisions in the context of the automotive industry.
