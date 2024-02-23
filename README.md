@@ -2,7 +2,7 @@
 
 **Introduction**
 
-The objective of this project is to predict the price of a car model using a dataset containing various columns, including "Price," "Age_08_04," "KM," "HP," "cc," "Doors," "Gears," "Quarterly Tax," and "Weight." This report outlines the methodology and steps taken to achieve this objective.
+The objective of this project is to predict the price of a car model using a dataset containing various columns, including "Price," "Age_08_04," "Km," "Hp," "cc," "Doors," "Gears," "Quarterly Tax," and "Weight." This report outlines the methodology and steps taken to achieve this objective.
 
 **Data Preprocessing**
 
